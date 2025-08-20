@@ -1,0 +1,2 @@
+# kurumi-discord-theme
+hi
